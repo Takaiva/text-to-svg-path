@@ -16,7 +16,7 @@ A lightweight TypeScript utility to convert text to SVG paths using any font URL
 ## Installation
 
 ```bash
-npm install text-to-svg-path
+npm install @takaivasoft/text-to-svg-path
 ```
 
 ## Usage
